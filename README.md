@@ -2,8 +2,8 @@
 <h3 align="center">I'm a tinkerer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/calixlete" target="blank"><img src="https://img.shields.io/twitter/follow/calixlete?logo=twitter&style=for-the-badge" alt="calixlete" /></a> </p>
-![Bull](https://github.com/BishalBiswal/BishalBiswal/blob/main/a-bull-with-glasses-wearing-office-shirt-working-on-computer-611747640.png)
-- 📝 I am currently pursuing **B.Tech from ITER,SOA university**
+<img src="https://github.com/BishalBiswal/BishalBiswal/blob/main/a-bull-with-glasses-wearing-office-shirt-working-on-computer-611747640.png">
+- 📝 I am currently pursuing B.Tech from ITER,SOA university
 
 - 🌱 I’m currently learning **Machine learning and being a better coder**
 
